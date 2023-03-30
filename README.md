@@ -51,10 +51,3 @@ To contribute:
 
 When contributing, please follow best practices for writing Tree-sitter grammars and consult the Emacs Lisp documentation to ensure the grammar remains accurate and efficient.
 
-## License
-
-This Emacs Lisp Tree-sitter grammar is released under the MIT License.
-
-## Acknowledgments
-
-This grammar is based on the work of the Tree-sitter project and the Emacs Lisp language documentation.
